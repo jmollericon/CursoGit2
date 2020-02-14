@@ -1,2 +1,4 @@
 cambios en el archivo 2
 este es un cambio desde github para probar 'git pull'
+
+actualizr para despues revertir
